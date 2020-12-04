@@ -2,6 +2,8 @@
 
 This code example demonstrates various WLAN offloads such as Address Resolution Protocol (ARP) offload, packet filter offload, and the TCP keepalive offload using the [Low Power Assistant (LPA) middleware](https://github.com/cypresssemiconductorco/lpa).
 
+[Provide feedback on this Code Example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzA1MDAiLCJTcGVjIE51bWJlciI6IjAwMi0zMDUwMCIsIkRvYyBUaXRsZSI6IkFXUyBJb1QgYW5kIEZyZWVSVE9TIGZvciBQU29DIDYgTUNVOiBXTEFOIE9mZmxvYWRzIiwicmlkIjoicHJhaCIsIkRvYyB2ZXJzaW9uIjoiMS4xLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiSUNXIiwiRG9jIEZhbWlseSI6IlBTT0MifQ==)
+
 ## Requirements
 
 - [ModusToolbox v2.1](https://www.cypress.com/documentation/software-and-drivers/modustoolbox-software-archives)
@@ -428,6 +430,7 @@ Document Title: *CE230500 - AWS IoT and FreeRTOS for PSoC 6 MCU: WLAN Offloads*
 | Version | Description of Change |
 | ------- | --------------------- |
 | 1.0.0   | New code example      |
+| 1.1.0   | Removed unwanted design files |
 
 ------
 

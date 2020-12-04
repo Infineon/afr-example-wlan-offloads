@@ -5,9 +5,9 @@
 * System configuration
 * This file was automatically generated and should not be modified.
 * Tools Package 2.1.0.1266
-* psoc6pdl 1.6.0.4266
+* psoc6pdl 1.6.1.4886
 * personalities_2.0 2.0.0.0
-* udd 1.2.0.370
+* udd 1.2.0.473
 *
 ********************************************************************************
 * Copyright 2020 Cypress Semiconductor Corporation
@@ -601,7 +601,7 @@ __WEAK void cycfg_ClockStartupError(uint32_t error)
 	    #endif /* CY_CFG_SYSCLK_ALTHF_BLE_ECO_TIME */
 	 
 	    #ifdef CY_CFG_SYSCLK_ALTHF_BLE_ECO_FREQ
-	        secure_config->altHFfreq = CY_CFG_SYSCLK_ALTHF_BLE_ECO_FREQ;
+	        secure_config->altHFclkFreq = CY_CFG_SYSCLK_ALTHF_BLE_ECO_FREQ;
 	    #endif /* CY_CFG_SYSCLK_ALTHF_BLE_ECO_FREQ */
 	 
 	    #ifdef CY_CFG_SYSCLK_ALTHF_BLE_ECO_CLK_DIV
